@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[5]:
-
-
 #Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 def twoSum(nums: List[int], target: int):
 
