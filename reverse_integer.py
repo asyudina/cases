@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[5]:
-
-
 #Given a 32-bit signed integer, reverse digits of an integer.
 def reverse(x: int):
 
