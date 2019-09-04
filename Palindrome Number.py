@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[5]:
-
-
 def isPalindrome(x: int):
 
     if x<0:
